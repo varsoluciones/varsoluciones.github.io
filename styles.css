@@ -55,7 +55,7 @@ body::-webkit-scrollbar-thumb {
 }
 /* Inicio */
 .image_inicio_container {
-    background-image: url(./img/VAR.svg);
+    background-image: url(VAR.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
